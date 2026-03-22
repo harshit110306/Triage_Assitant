@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+
+# Environment variables (NEVER COMMIT THIS)
+.env
+
+# Uploaded patient reports (DO NOT COMMIT PATIENT DATA)
+static/uploads/
+*.pdf
